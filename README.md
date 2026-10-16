@@ -1,6 +1,6 @@
 # Red Sun
 
-A black-and-red monochrome theme for [Omarchy](https://omarchy.org/), built around the "Ethio Theatre" wallpaper.
+A black-and-red monochrome theme for [Omarchy](https://omarchy.org/), built around famous Ethiopian landmarks as its base.
 
 ## Install
 
